@@ -1,7 +1,4 @@
-Hello!
-
-The files in this ZIP are the code, the report, the data txt-file and a visalization class (python).
-To run the code, make sure the files are in the same folder and run them through your IDE. Also make sure to open the entire folder in the IDE to access the other classes (can be done using the command "code ." in git bash, while located in this folder). I have been using VSCode for the development.
+# Assignment 4 in Algorithms and datastructures
 
 Problem1: 
 -   We print from the iterators: vertices, edges and adjacencies.
